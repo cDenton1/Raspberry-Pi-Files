@@ -45,7 +45,7 @@ FinalProj305.py - Requires a Water Sensor, OLED Display, buzzer, and x2 LEDs (pr
 - Demonstration - will be added once finished
 
 ## Usage
-To run any code on a Raspberry Pi Pico you're going to need **MicroPython** and an **IDE** that can work with your Pi. Most notable is, <a href="https://thonny.org/">Thonny</a>, as it's free and documented well online; finding any tutorials regarding setup is extremely easy. <br> 
+To run any code on a Raspberry Pi Pico you're going to need **MicroPython** and an **IDE** that can work with your Pi. Most notable is, <a href="https://thonny.org/">Thonny</a>, as it's free and well documented, finding any tutorials regarding setup is extremely easy. <br> 
 For any programs requiring the **OLED Display**, the file **ssd1306.py** is necessary for it to work properly. It's provided here in this repository for ease of access, but it can also be found online, along with documentation for setup, and tutorials, or on my blog.
 
 ## More Information
