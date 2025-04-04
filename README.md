@@ -42,7 +42,7 @@ FinalProj305.py - Requires a Water Sensor, OLED Display, buzzer, and x2 LEDs (pr
 | Between Thresholds     | OK       | Green LED          |
 | Above Higher Threshold | HIGH     | Red LED and Buzzer |
 
-- Demonstration - will be added once finished
+- Demonstration - <a href="https://youtu.be/hNhDl3mNzno">Water Level Monitor | ITSC-305 Final Project</a>
 
 ## Usage
 To run any code on a Raspberry Pi Pico you're going to need **MicroPython** and an **IDE** that can work with your Pi. Most notable is, <a href="https://thonny.org/">Thonny</a>, as it's free and well documented, finding any tutorials regarding setup is extremely easy. <br> 
