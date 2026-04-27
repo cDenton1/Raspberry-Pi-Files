@@ -3,7 +3,7 @@ Included in this repository are files that I've programmed or used for my Raspbe
 
 ## Projects
 ### 1. Coin Flip Game
-OLED-CoinFlipGame.py - Requires an OLED Display, and x2 Buttons
+**OLED-CoinFlipGame.py** - Requires an OLED Display, and x2 Buttons
 - User calls heads or tails via the buttons
 - The OLED displays any required ouput, which includes
   - The users call
@@ -14,7 +14,7 @@ OLED-CoinFlipGame.py - Requires an OLED Display, and x2 Buttons
 - Demonstration - [Coin Flip | Raspberry Pi Pico W](https://youtu.be/iaiqS3QNyAw?si=wklGf-frqKPXHuVz)
 
 ### 2. Potentiometer Graph
-10SegDisplay-PMGraph.py - Requires a 10 Segment Bar Graph Display, Rotary Potentiometer, and PWM (Pulse Width Module)
+**10SegDisplay-PMGraph.p**y - Requires a 10 Segment Bar Graph Display, Rotary Potentiometer, and PWM (Pulse Width Module)
 - The brightness of the bar graph is adjusted by rotating the potentiometer (PM)
   - Rotating clockwise will brighten the LEDs from one side to the other
   - Rotating counter-clockwise will dim the LEDs the other way
@@ -23,7 +23,7 @@ OLED-CoinFlipGame.py - Requires an OLED Display, and x2 Buttons
 - Demonstration - [Potentiometer and Bar Graph Display | Raspberry Pi Pico W](https://youtu.be/pedJWBaIUEM?si=cL0R3xNyznI9KKEP)
 
 ### 3. Memory Game
-MemoryGame.py - Requires x3 Buttons, and x3 LEDs (preferably all different colours)
+**MemoryGame.py** - Requires x3 Buttons, and x3 LEDs (preferably all different colours)
 - A sequence of LEDs are flashed, a new random LED is added each round
 - User presses the corresponding buttons of the LEDs to repeat the sequence flashed at them
 - Cycle repeats until the user gets one wrong
@@ -31,7 +31,7 @@ MemoryGame.py - Requires x3 Buttons, and x3 LEDs (preferably all different colou
   - If wrong, "Wrong! Game Over!" is printed to the terminal, all LEDs loop through flashing, and the program exits
 
 ### 4. Water Level Monitor
-FinalProj305.py - Requires a Water Sensor, OLED Display, buzzer, and x2 LEDs (preferably red and green)
+**FinalProj305.py** - Requires a Water Sensor, OLED Display, buzzer, and x2 LEDs (preferably red and green)
 - Tracks the water level with a preset low and high threshold using a water sensor
 - Connected to the internet, it sends the data to ThingSpeak to graph it
 - Outputs the water level detected and the corresponding status to the OLED display <br>
@@ -45,7 +45,7 @@ FinalProj305.py - Requires a Water Sensor, OLED Display, buzzer, and x2 LEDs (pr
 - Demonstration - [Water Level Monitor | ITSC-305 Final Project](https://youtu.be/hNhDl3mNzno)
 
 ### 5. (Currently In-Progress) Visual FCFS (First Come First Serve) Simulator
-FCFS-Simulator.py - Requires 10 Segment Bar Graph Display, Rotary Potentiometer, PWM (Pulse Width Module), and LCD Display
+**FCFS-Simulator.py** - Requires 10 Segment Bar Graph Display, Rotary Potentiometer, PWM (Pulse Width Module), and LCD Display
 - ...
 
 For the LCD Display use this Arduino tutorial for help setting up - [Arduino Project Hub](https://projecthub.arduino.cc/khushisahil36/arduino-tutorial-lcd-display-b8285a)
