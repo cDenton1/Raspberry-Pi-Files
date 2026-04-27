@@ -56,4 +56,8 @@ To run any code on a Raspberry Pi Pico you're going to need **MicroPython** and 
 For any programs requiring the **OLED Display**, the file **ssd1306.py** is necessary for it to work properly. It's provided here in this repository for ease of access, but it can also be found online, along with documentation for setup, and tutorials, or on my blog.
 
 ## More Information
-To go more in-depth on a couple of these programs, I would recommend checking out my blog, [My Experience With a Raspberry Pi Pico](https://cdenton1.github.io/2025/02/02/My-Experience-With-a-Raspberry-Pi-Pico.html). I dive into a couple of the programs, walking through the setup and explaining the code. As well as sharing why I'm using a Pi, my initial thoughts, and overall first experience.
+To go more in-depth on a couple of these programs, I would recommend checking out my blog post, [My Experience With a Raspberry Pi Pico](https://cdenton1.github.io/2025/02/02/My-Experience-With-a-Raspberry-Pi-Pico.html). 
+
+I dive into a couple of the programs, walking through the setup and explaining the code. As well as sharing why I'm using a Pi, my initial thoughts, and overall first experience.
+
+Not included in this repository but a more advanced project is a [Honeypot](https://github.com/cDenton1/Honeypot). Check out my blog post [Building a Honeypot](https://cdenton1.github.io/2026/02/18/Building-a-Honeypot.html) to learn more.
