@@ -48,7 +48,7 @@ FinalProj305.py - Requires a Water Sensor, OLED Display, buzzer, and x2 LEDs (pr
 FCFS-Simulator.py - Requires 10 Segment Bar Graph Display, Rotary Potentiometer, PWM (Pulse Width Module), and LCD Display
 - ...
 
-For the LCD Display use this Arduino tutorial for help setting up - [https://projecthub.arduino.cc/khushisahil36/arduino-tutorial-lcd-display-b8285a](https://projecthub.arduino.cc/khushisahil36/arduino-tutorial-lcd-display-b8285a)
+For the LCD Display use this Arduino tutorial for help setting up - [Arduino Project Hub](https://projecthub.arduino.cc/khushisahil36/arduino-tutorial-lcd-display-b8285a)
 
 ## Usage
 To run any code on a Raspberry Pi Pico you're going to need **MicroPython** and an **IDE** that can work with your Pi. Most notable is, [Thonny](https://thonny.org/), as it's free and well documented, finding any tutorials regarding setup is extremely easy.
