@@ -47,6 +47,7 @@ FinalProj305.py - Requires a Water Sensor, OLED Display, buzzer, and x2 LEDs (pr
 ### 5. (Currently In-Progress) Visual FCFS (First Come First Serve) Simulator
 FCFS-Simulator.py - Requires 10 Segment Bar Graph Display, Rotary Potentiometer, PWM (Pulse Width Module), and LCD Display
 - ...
+
 For the LCD Display use this Arduino tutorial for help setting up - [https://projecthub.arduino.cc/khushisahil36/arduino-tutorial-lcd-display-b8285a](https://projecthub.arduino.cc/khushisahil36/arduino-tutorial-lcd-display-b8285a)
 
 ## Usage
