@@ -46,9 +46,15 @@ Included in this repository are files that I've programmed or used for my Raspbe
 
 ### 5. (Currently In-Progress) Visual FCFS (First Come First Serve) Simulator
 **FCFS_Simulator** - Requires 10 Segment Bar Graph Display, Rotary Encoder, and LCD Display
-- ...
+- The LCD display outputs eerything needed for the user and is controlled by the rotary encoder
+- User decides how many processes between 2-10 are simulated
+- Then the arrival and burst time are decided for each
+- A visual simulation of the queue is shown on the bar graph
+- Queue updates and run-time are output on the LCD
+- Lastly, the average waiting and turnaround times are calculated and output
+- Demonstration - [FCFS Simulator | Raspberry Pi Pico W](https://youtu.be/2HHmcEU_PsQ)
 
-Help with set up and more information will be provided once the project is actually complete
+Read more about this project on my blog - [ link once the post is finished ]
 
 ## Usage
 To run any code on a Raspberry Pi Pico you're going to need **MicroPython** and an **IDE** that can work with your Pi. Most notable is, [Thonny](https://thonny.org/), as it's free and well documented, finding any tutorials regarding setup is extremely easy.
